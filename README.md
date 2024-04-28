@@ -10,6 +10,8 @@ Streamlit Interface: The project includes a user-friendly interface built with S
 
 ![Screenshot (547)](https://github.com/tharushikaDyayinna/Sentiment-Analyzer/assets/102175958/c8426144-e409-4b6a-9d0e-c0373adf4200)
 
+![Screenshot (546)](https://github.com/tharushikaDyayinna/Sentiment-Analyzer/assets/102175958/19f6461c-b3cc-46b7-ae0d-6c24f2393932)
+
 ### Trained Model: 
 The sentiment analyzer uses a trained machine learning model stored in a Pickle file (text_emotion2.pkl). This model has been trained on a dataset of text samples labeled with corresponding emotions.
 
