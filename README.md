@@ -8,6 +8,8 @@ This tool is designed to analyze the sentiment of text input, helping users unde
 The project aims to detect emotions in text data using machine learning techniques. It utilizes a pre-trained sentiment analysis model to predict the emotion associated with input text.
 Streamlit Interface: The project includes a user-friendly interface built with Streamlit, a Python library for creating web applications. Users can input text and receive predictions for the associated emotion.
 
+![Screenshot (547)](https://github.com/tharushikaDyayinna/Sentiment-Analyzer/assets/102175958/c8426144-e409-4b6a-9d0e-c0373adf4200)
+
 ### Trained Model: 
 The sentiment analyzer uses a trained machine learning model stored in a Pickle file (text_emotion2.pkl). This model has been trained on a dataset of text samples labeled with corresponding emotions.
 
