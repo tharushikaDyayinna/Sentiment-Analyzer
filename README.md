@@ -20,10 +20,14 @@ The get_prediction_proba function returns the probabilities of each emotion clas
 ### Visualization: 
 The project includes visualizations of prediction probabilities using Altair, a declarative statistical visualization library for Python. It generates a bar chart to display the probabilities of each emotion class.
 
-
-
 ### User Input and Output: 
 Users interact with the sentiment analyzer through a text area input field where they can enter text. After submitting the input, the predicted emotion, confidence score, and prediction probabilities are displayed.
 
 ### Styling and Presentation: 
 The interface is styled using HTML and CSS to enhance the visual presentation. 
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to the development of the Sentiment Analyzer
+
+## Contact
+If you have any questions, suggestions, or feedback, feel free to reach out to the project maintainer at tdyn.6910@gmail.com
