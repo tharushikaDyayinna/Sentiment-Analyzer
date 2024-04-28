@@ -32,6 +32,3 @@ The interface is styled using HTML and CSS to enhance the visual presentation.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the development of the Sentiment Analyzer
-
-## Contact
-If you have any questions, suggestions, or feedback, feel free to reach out to the project maintainer at tdyn.6910@gmail.com
